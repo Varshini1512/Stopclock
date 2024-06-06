@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 let runnable=false;
 let startTime;
 let timer;
